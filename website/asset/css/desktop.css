@@ -1,0 +1,12 @@
+ .menu-button{
+    display: none;
+}
+
+.nav-link{
+    display: inline-block;
+    justify-content: flex-end;
+    background-color: blue;
+    width: 80%;
+}
+
+ 
